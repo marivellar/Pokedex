@@ -14,14 +14,13 @@
 
 <h2 align="center"> Linguagens, Dependências e Libs Instaladas </h2>
 
-<ul align="center">
-<li text-decoration="none"> React</li>
-<li> react-router-dom</li>
-<li> npm</li>
-<li> axios</li>
-<li> style-components</li>
-<li> material-ui</li>
-</ul>
+<p align="center">
+> React
+> react-router-dom
+> axios
+> style-components
+> material-ui
+</p>
 
 <h2 align="center"> Como rodar a aplicação </h2>
 
