@@ -15,7 +15,7 @@
 <h2 align="center"> Linguagens, Dependências e Libs Instaladas </h2>
 
 <p align="center">
-- React
+[X] React
 - react-router-dom
 - npm
 - axios
