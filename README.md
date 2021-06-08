@@ -14,13 +14,11 @@
 
 <h2 align="center"> Linguagens, Dependências e Libs Instaladas </h2>
 
-<p align="center">
-> React
-> react-router-dom
-> axios
-> style-components
-> material-ui
-</p>
+<p align="center"> > React </p>
+<p align="center"> > react-router-dom </p>
+<p align="center"> > axios </p>
+<p align="center"> > style-components </p>
+<p align="center"> > material-ui </p>
 
 <h2 align="center"> Como rodar a aplicação </h2>
 
@@ -29,7 +27,7 @@
 <p align="center"> - Instale as dependências: npm install </p>
 <p align="center"> - Execute a aplicação: npm run start </p>
 
-<h2 align="center"> Colaboradores </h2
+<h2 align="center"> Colaboradores </h2>
 
 <p align="center"> - Mariana Avellar </p>
 <p align="center"> - Laécio da Conceição </p>
