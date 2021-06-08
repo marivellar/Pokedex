@@ -24,16 +24,12 @@
 
 <h2 align="center"> Como rodar a aplicação </h2>
 
-<p align="center">
-- No terminal, clone o projeto usando: git clone https://github.com/marivellar/Pokedex.git
-- Entre na pasta do projeto: cd Pokedex
-- Instale as dependências: npm install
-- Execute a aplicação: npm run start
-</p>
+<p align="center"> - No terminal, clone o projeto usando: git clone https://github.com/marivellar/Pokedex.git </p>
+<p align="center"> - Entre na pasta do projeto: cd Pokedex </p>
+<p align="center"> - Instale as dependências: npm install </p>
+<p align="center"> - Execute a aplicação: npm run start </p>
 
 <h2 align="center"> Colaboradores </h2
 
-<p align="center">
-- Mariana Avellar
-- Laécio da Conceição
-</p>
+<p align="center"> - Mariana Avellar </p>
+<p align="center"> - Laécio da Conceição </p>
