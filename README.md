@@ -15,7 +15,7 @@
 <h2 align="center"> Linguagens, Dependências e Libs Instaladas </h2>
 
 <ul align="center">
-<li> React</li>
+<li text-decoration="none"> React</li>
 <li> react-router-dom</li>
 <li> npm</li>
 <li> axios</li>
