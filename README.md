@@ -6,7 +6,7 @@
 
 <h2 align="center"> Descrição do projeto </h2>
 
-<p align="center">A Pokedex é uma aplicação que mostra uma lista de Pokemons e permite que o usuário adicione ou remova os Pokemons escolhidos de sua Pokedex. Também é possível ver detalhes de cada Pokemon. Desenvolvido durante o curso de Desenvolvedor Front End da escola de programação Labenu.</p>
+<p align="center">A Pokedex é uma aplicação desenvolvida em React com integração de API. A página inicial mostra uma lista de Pokemons e permite que o usuário adicione ou remova os Pokemons escolhidos de sua Pokedex. Também é possível ver detalhes de cada Pokemon. Desenvolvido durante o curso de Front End da escola de programação Labenu.</p>
 
 <h2 align="center"> Deploy da Aplicação com Surge </h2>
 
